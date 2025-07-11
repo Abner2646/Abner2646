@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abner <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Full-Stack Developer and aspiring entrepreneur from Argentina 🇦🇷</h3>
+<h3 align="center">A passionate Full-Stack Developer from Argentina 🇦🇷</h3>
 
 - 🔭 I’m currently working on my **final university project: a stock management system with Docker and microservices**
 
@@ -7,13 +7,9 @@
 
 - 💼 I have a background in **business, marketing, and team leadership**, and I'm passionate about creating software products with real-world impact
 
-- 🚀 I’m building skills to launch **tech startups and work in the US tech ecosystem**
-
-- 💡 I’m interested in **AI, product strategy, and growth marketing**
+- 💡 I’m interested in **AI and product strategy**
 
 - 📫 Reach me at: **grgurichabner@gmail.com**
-
-- ⚡ Fun facts: **I love building things from scratch, reading business books, and planning bold moves 🚀**
 
 <h3 align="center">Languages and Tools:</h3>
 
