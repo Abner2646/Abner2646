@@ -11,7 +11,7 @@
 
 - 💡 I’m interested in **AI, product strategy, and growth marketing**
 
-- 📫 Reach me at: **abnergrgurich@gmail.com**
+- 📫 Reach me at: **grgurichabner@gmail.com**
 
 - ⚡ Fun facts: **I love building things from scratch, reading business books, and planning bold moves 🚀**
 
@@ -19,9 +19,8 @@
 <div align="center">
 
 <!-- Replace with your real links if available -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnergrgurich@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-grgurich/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grgurichabner@gmail.com)
 
 </div>
 
