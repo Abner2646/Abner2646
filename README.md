@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abner <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Full-Stack Developer from Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently working on my **final university project: a stock management system with Docker and microservices**
+- 🔭 I’m currently working on my **final university project: a real cryptocurrency exchange web application with Docker and microservices**
 
-- 🌱 I’m currently learning **Docker, React, and advanced backend architecture with Node.js, Express, and Sequelize**
+- 🌱 I’m currently improving my skills in **Docker, React, and advanced backend architecture with Node.js, Express, and Sequelize**
 
 - 💼 I have a background in **business, marketing, and team leadership**, and I'm passionate about creating software products with real-world impact
 
