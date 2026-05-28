@@ -39,7 +39,7 @@ I'm a **Full-Stack Developer** passionate about building complete products — f
 
 | **₿ BitFlow — Crypto Exchange Platform** |
 |---|
-| <p align="center"><img src="images/bitflow.png" width="800"></p> |
+| <p align="center"><a href="https://www.youtube.com/watch?v=YACoKRZSCHY&t=1s"><img src="images/bitflow-thumb.png" width="800"></a></p> |
 | A full-stack cryptocurrency exchange built from scratch. Includes real blockchain integration with Ethereum Sepolia, BSC testnet, and Bitcoin testnet3, with HD wallet generation, automated deposit detection, and withdrawal processing. Features a P2P trading marketplace, a spot trading engine with order book matching, JWT + 2FA + Google OAuth authentication, and a companion React Native mobile app. |
 | 🛠️ `Node.js` `Express` `PostgreSQL` `Sequelize` `React` `React Native` `Expo Router` `JWT` `OAuth` `Docker` |
 | 🌐 [View Repository](https://github.com/Abner2646/Exchange-web-mobile) |
