@@ -44,6 +44,13 @@ I'm a **Full-Stack Developer** passionate about building complete products — f
 | 🛠️ `Node.js` `Express` `PostgreSQL` `Sequelize` `React` `React Native` `Expo Router` `JWT` `OAuth` `Docker` |
 | 🌐 [View Repository](https://github.com/Abner2646/Exchange-web-mobile) |
 
+| **🍽️ Nativ — Multi-Tenant SaaS de Reservas para Restaurantes** |
+|---|
+| <p align="center"><img src="images/nativ-mockup.png" width="800"></p> |
+| Plataforma SaaS de reservas white-label para restaurantes, en producción con tenants reales. A diferencia de OpenTable/Resy, Nativ no expone competidores a los clientes del restaurante: es invisible, con pricing plano ($80, sin comisiones por reserva). Motor de disponibilidad propio (inventario híbrido mesas/covers, turn times por tamaño de party, combos de mesas con best-fit), concurrencia real vía advisory locks transaccionales de Postgres para evitar double-booking en reservas simultáneas, multi-tenancy completo con subdominios, roles y RLS, realtime entre tablets del mismo local, y un editor de floor plan drag & drop hecho con pointer events crudos (sin librerías de canvas/DnD). Tres experiencias responsive distintas (mobile, tablet para servicio, desktop) sobre una sola base de código. Integra Stripe (subscripciones + Connect para depósitos) y Resend para emails transaccionales. |
+| 🛠️ `Next.js` `React` `TypeScript` `PostgreSQL` `Supabase` `Supabase Realtime` `Stripe` `Resend` `Tailwind CSS` |
+| 🌐 [Ver Proyecto](https://nativ.business) |
+
 | **🚗 Aumacar — Auto Dealership E-Commerce** |
 |---|
 | <p align="center"><img src="images/aumacar.png" width="800"></p> |
