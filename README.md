@@ -44,12 +44,12 @@ I'm a **Full-Stack Developer** passionate about building complete products — f
 | 🛠️ `Node.js` `Express` `PostgreSQL` `Sequelize` `React` `React Native` `Expo Router` `JWT` `OAuth` `Docker` |
 | 🌐 [View Repository](https://github.com/Abner2646/Exchange-web-mobile) |
 
-| **🍽️ Nativ — Multi-Tenant SaaS de Reservas para Restaurantes** |
+| **🍽️ Nativ — Multi-Tenant SaaS Restaurant Reservation Platform** |
 |---|
 | <p align="center"><img src="images/nativ-mockup.png" width="800"></p> |
-| Plataforma SaaS de reservas white-label para restaurantes, en producción con tenants reales. A diferencia de OpenTable/Resy, Nativ no expone competidores a los clientes del restaurante: es invisible, con pricing plano ($80, sin comisiones por reserva). Motor de disponibilidad propio (inventario híbrido mesas/covers, turn times por tamaño de party, combos de mesas con best-fit), concurrencia real vía advisory locks transaccionales de Postgres para evitar double-booking en reservas simultáneas, multi-tenancy completo con subdominios, roles y RLS, realtime entre tablets del mismo local, y un editor de floor plan drag & drop hecho con pointer events crudos (sin librerías de canvas/DnD). Tres experiencias responsive distintas (mobile, tablet para servicio, desktop) sobre una sola base de código. Integra Stripe (subscripciones + Connect para depósitos) y Resend para emails transaccionales. |
+| White-label SaaS reservation platform for restaurants, live in production with real tenants. Unlike OpenTable/Resy, Nativ never shows competitors to a restaurant's own customers — it's invisible, with flat pricing ($80, no per-booking commissions). Custom availability engine (hybrid table/covers inventory, party-size-based turn times, best-fit table combining), real concurrency handling via Postgres transactional advisory locks to prevent double-booking on simultaneous reservations, full multi-tenancy with subdomains, roles, and RLS, realtime sync across tablets in the same restaurant, and a drag-and-drop floor plan editor built with raw pointer events (no canvas/DnD libraries). Three distinct responsive experiences (mobile, tablet for service, desktop) on a single codebase. Integrates Stripe (subscriptions + Connect for deposits) and Resend for transactional emails. |
 | 🛠️ `Next.js` `React` `TypeScript` `PostgreSQL` `Supabase` `Supabase Realtime` `Stripe` `Resend` `Tailwind CSS` |
-| 🌐 [Ver Proyecto](https://nativ.business) |
+| 🌐 [View Project](https://nativ.business) |
 
 | **🚗 Aumacar — Auto Dealership E-Commerce** |
 |---|
